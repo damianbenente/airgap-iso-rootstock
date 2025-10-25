@@ -25,7 +25,7 @@ export const erc20Tokens: Record<string, ERC20TokenMetadata> = {
     name: 'BitPRO ',
     marketSymbol: 'bitp',
     identifier: SubProtocolSymbols.RBTC_ERC20,
-    contractAddress: '0x440cd83C160de5C96DDDb20246815EA44C7Abbca8',
+    contractAddress: '0x440cd83C160de5C96DDb20246815EA44C7Abbca8',
     decimals: 18
   },
   
