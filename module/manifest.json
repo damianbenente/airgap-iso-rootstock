@@ -12,13 +12,19 @@
   "res": {
 	  "symbol": {
 		  "rbtc": "file://rbtc.svg",
-		  "rif": "file://rif.svg"
+		  "rif": "file://rif.svg",
+		  "doc":"file://doc.svg",
+		  "moc":"file://moc.svg",
+		  "bitp":"file://bitp.svg"
 	  }
   },
   "include": [
     "index.browserify.js",
 	  "rbtc.svg",
-	  "rif.svg"
+	  "rif.svg",
+	  "doc.svg",
+	  "moc.svg",
+	  "bitp.svg"
   ],
   "jsenv": {
     "ios": "webview",
